@@ -1,0 +1,13 @@
+/Users/jay.sivaraman/git/dotnetsdk-helloworld/FSNetCore/src/App/bin/Debug/netcoreapp2.2/App.deps.json
+/Users/jay.sivaraman/git/dotnetsdk-helloworld/FSNetCore/src/App/bin/Debug/netcoreapp2.2/App.runtimeconfig.json
+/Users/jay.sivaraman/git/dotnetsdk-helloworld/FSNetCore/src/App/bin/Debug/netcoreapp2.2/App.runtimeconfig.dev.json
+/Users/jay.sivaraman/git/dotnetsdk-helloworld/FSNetCore/src/App/bin/Debug/netcoreapp2.2/App.dll
+/Users/jay.sivaraman/git/dotnetsdk-helloworld/FSNetCore/src/App/bin/Debug/netcoreapp2.2/App.pdb
+/Users/jay.sivaraman/git/dotnetsdk-helloworld/FSNetCore/src/App/bin/Debug/netcoreapp2.2/Library.dll
+/Users/jay.sivaraman/git/dotnetsdk-helloworld/FSNetCore/src/App/bin/Debug/netcoreapp2.2/Library.pdb
+/Users/jay.sivaraman/git/dotnetsdk-helloworld/FSNetCore/src/App/obj/Debug/netcoreapp2.2/App.fsprojAssemblyReference.cache
+/Users/jay.sivaraman/git/dotnetsdk-helloworld/FSNetCore/src/App/obj/Debug/netcoreapp2.2/App.AssemblyInfoInputs.cache
+/Users/jay.sivaraman/git/dotnetsdk-helloworld/FSNetCore/src/App/obj/Debug/netcoreapp2.2/App.AssemblyInfo.fs
+/Users/jay.sivaraman/git/dotnetsdk-helloworld/FSNetCore/src/App/obj/Debug/netcoreapp2.2/App.fsproj.CopyComplete
+/Users/jay.sivaraman/git/dotnetsdk-helloworld/FSNetCore/src/App/obj/Debug/netcoreapp2.2/App.dll
+/Users/jay.sivaraman/git/dotnetsdk-helloworld/FSNetCore/src/App/obj/Debug/netcoreapp2.2/App.pdb
